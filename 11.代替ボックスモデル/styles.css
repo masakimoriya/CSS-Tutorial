@@ -48,5 +48,14 @@ img {
 
 
 /* img要素にスタイルを適用 */
-
+img {
+  height: 300px;
+  width: 300px;
+}
 /* div要素にスタイルを適用 */
+div{
+  height: 360px;
+  width: 320px;
+  border: 1px #800000 solid;
+  display: inline-block;
+}
